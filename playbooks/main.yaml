@@ -1,9 +1,0 @@
-- 
-  name: "Run local commands"  
-  host: localhost
-  tasks:
-     -
-      name: "Run commands"  
-      command: ls
--        
-      
